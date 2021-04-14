@@ -1,0 +1,5 @@
+Credentials cache: API:ABBF05E7-75AF-4874-8538-97B0A7A454B1
+        Principal: msousa@42LISBOA.COM
+
+  Issued                Expires               Principal
+Jan  6 11:07:31 2021  Jan  6 21:07:31 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
