@@ -155,7 +155,14 @@ Reference repository for all the 42 C Piscine projects.
 
 ## c11
 
-- [ex0: ](//ex0/)
+- [ex00: ft_foreach](/c11/ex00/ft_foreach.c)
+- [ex01: ft_map](/c11/ex01/ft_map.c)
+- [ex02: ft_any](/c11/ex02/ft_any.c)
+- [ex03: ft_count_if](/c11/ex03/ft_count_if.c)
+- [ex04: ft_is_sort](/c11/ex04/ft_is_sort.c)
+- [ex05: do-op](/c11/ex05/)
+- [ex06: ft_sort_string_tab](/c11/ex06/ft_sort_string_tab.c)
+- [ex07: ft_advanced_sort_string_tab](/c11/ex07/ft_advanced_sort_string_tab.c)
 
 ## c12
 
