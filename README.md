@@ -36,7 +36,14 @@ Reference repository for all the 42 C Piscine projects.
 
 ## shell01
 
-- [ex0: ](//ex0/)
+- [ex01: print_groups](/shell01/ex01/print_groups.sh)
+- [ex02: find_sh](/shell01/ex02/find_sh.sh)
+- [ex03: count_files](/shell01/ex03/count_files.sh)
+- [ex04: MAC](/shell01/ex04/MAC.sh)
+- [ex05: Marvin](/shell01/ex05/)
+- [ex06: Skip](/shell01/ex06/skip.sh)
+- [ex07: r_dwssap](/shell01/ex07/r_dwssap.sh)
+- [ex08: add_chelou](/shell01/ex08/add_chelou.sh)
 
 ## c00
 
