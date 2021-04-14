@@ -196,3 +196,10 @@ Reference repository for all the 42 C Piscine projects.
 - [ex06: btree_level_count](/c13/ex06/btree_level_count.c)
 - [ex07: btree_apply_by_level](/c13/ex07/btree_apply_by_level.c)
 
+## rush00
+
+- [ex04](/rush00/)
+
+## rush01
+
+- [ex00](/rush01/ex00)
