@@ -20,6 +20,8 @@ Reference repository for all the 42 C Piscine projects.
 [c11](#c11),
 [c12](#c12),
 [c13](#c13),
+[rush00](#rush00),
+[rush01](#rush01)
 
 ## shell00
 
