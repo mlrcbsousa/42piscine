@@ -54,7 +54,7 @@ Reference repository for all the 42 C Piscine projects.
 - [ex04: ft_is_negative](/c00/ex04/ft_is_negative.c)
 - [ex05: ft_print_comb](/c00/ex05/ft_print_comb.c)
 - [ex06: ft_print_comb2](/c00/ex06/ft_print_comb2.c)
-- [ex07: ft_putnbr](/c00/ex07/ft_putnbr)
+- [ex07: ft_putnbr](/c00/ex07/ft_putnbr.c)
 - [ex08: ft_print_combn](/c00/ex08/ft_print_combn.c)
 
 ## c01
