@@ -87,7 +87,12 @@ Reference repository for all the 42 C Piscine projects.
 
 ## c03
 
-- [ex0: ](//ex0/)
+- [ex00: ft_strcmp](/c03/ex00/ft_strcmp.c)
+- [ex01: ft_strncmp](/c03/ex01/ft_strncmp.c)
+- [ex02: ft_strcat](/c03/ex02/ft_strcat.c)
+- [ex03: ft_strncat](/c03/ex03/ft_strncat.c)
+- [ex04: ft_strstr](/c03/ex04/ft_strstr.c)
+- [ex05: ft_strlcat](/c03/ex05/ft_strlcat.c)
 
 ## c04
 
