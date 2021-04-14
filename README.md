@@ -148,7 +148,10 @@ Reference repository for all the 42 C Piscine projects.
 
 ## c10
 
-- [ex0: ](//ex0/)
+- [ex00: display_file](/c10/ex00/)
+- [ex01: cat](/c10/ex01/)
+- [ex02: tail](/c10/ex02/)
+- [ex03: hexdump](/c10/ex03/)
 
 ## c11
 
