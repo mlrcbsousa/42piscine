@@ -117,7 +117,10 @@ Reference repository for all the 42 C Piscine projects.
 
 ## c06
 
-- [ex0: ](//ex0/)
+- [ex00: ft_print_program_name](/c06/ex00/ft_print_program_name.c)
+- [ex01: ft_print_params](/c06/ex01/ft_print_params.c)
+- [ex02: ft_rev_params](/c06/ex02/ft_rev_params.c)
+- [ex03: ft_sort_params](/c06/ex03/ft_sort_params.c)
 
 ## c07
 
