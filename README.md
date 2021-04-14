@@ -142,7 +142,9 @@ Reference repository for all the 42 C Piscine projects.
 
 ## c09
 
-- [ex0: ](//ex0/)
+- [ex00: libft](/c09/ex00/)
+- [ex01: Makefile](/c09/ex01/)
+- [ex02: ft_split](/c09/ex02/ft_split.c)
 
 ## c10
 
