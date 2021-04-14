@@ -133,7 +133,12 @@ Reference repository for all the 42 C Piscine projects.
 
 ## c08
 
-- [ex0: ](//ex0/)
+- [ex00: ft.h](/c08/ex00/ft.h)
+- [ex01: ft_boolean.h](/c08/ex01/ft_boolean.h)
+- [ex02: ft_abs.h](/c08/ex02/ft_abs.h)
+- [ex03: ft_point.h](/c08/ex03/ft_point.h)
+- [ex04: ft_strs_to_tab](/c08/ex04/)
+- [ex05: ft_show_tab](/c08/ex05/ft_show_tab.c)
 
 ## c09
 
