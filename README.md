@@ -47,7 +47,15 @@ Reference repository for all the 42 C Piscine projects.
 
 ## c00
 
-- [ex0: ](//ex0/)
+- [ex00: ft_putchar](/c00/ex00/ft_putchar.c)
+- [ex01: ft_print_alphabet](/c00/ex01/ft_print_alphabet.c)
+- [ex02: ft_print_reverse_alphabet](/c00/ex02/ft_print_reverse_alphabet.c)
+- [ex03: ft_print_numbers](/c00/ex03/ft_print_numbers.c)
+- [ex04: ft_is_negative](/c00/ex04/ft_is_negative.c)
+- [ex05: ft_print_comb](/c00/ex05/ft_print_comb.c)
+- [ex06: ft_print_comb2](/c00/ex06/ft_print_comb2.c)
+- [ex07: ft_putnbr](/c00/ex07/ft_putnbr)
+- [ex08: ft_print_combn](/c00/ex08/ft_print_combn.c)
 
 ## c01
 - [ex0: ](//ex0/)
