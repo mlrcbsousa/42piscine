@@ -166,7 +166,24 @@ Reference repository for all the 42 C Piscine projects.
 
 ## c12
 
-- [ex0: ](//ex0/)
+- [ex00: ft_create_elem](/c12/ex00/ft_create_elem.c)
+- [ex01: ft_list_push_front](/c12/ex01/ft_list_push_front.c)
+- [ex02: ft_list_size](/c12/ex02/ft_list_size.c)
+- [ex03: ft_list_last](/c12/ex03/ft_list_last.c)
+- [ex04: ft_list_push_back](/c12/ex04/ft_list_push_back.c)
+- [ex05: ft_list_push_strs](/c12/ex05/ft_list_push_strs.c)
+- [ex06: ft_list_clear](/c12/ex06/ft_list_clear.c)
+- [ex07: ft_list_at](/c12/ex07/ft_list_at.c)
+- [ex08: ft_list_reverse](/c12/ex08/ft_list_reverse.c)
+- [ex09: ft_list_foreach](/c12/ex09/ft_list_foreach.c)
+- [ex10: ft_list_foreach_if](/c12/ex10/ft_list_foreach_if.c)
+- [ex11: ft_list_find](/c12/ex11/ft_list_find.c)
+- [ex12: ft_list_remove_if](/c12/ex12/ft_list_remove_if.c)
+- [ex13: ft_list_merge](/c12/ex13/ft_list_merge.c)
+- [ex14: ft_list_sort](/c12/ex14/ft_list_sort.c)
+- [ex15: ft_list_reverse_fun](/c12/ex15/ft_list_reverse_fun.c)
+- [ex16: ft_sorted_list_insert](/c12/ex16/ft_sorted_list_insert.c)
+- [ex17: ft_sorted_list_merge](/c12/ex17/ft_sorted_list_merge.c)
 
 ## c13
 
