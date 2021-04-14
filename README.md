@@ -58,7 +58,16 @@ Reference repository for all the 42 C Piscine projects.
 - [ex08: ft_print_combn](/c00/ex08/ft_print_combn.c)
 
 ## c01
-- [ex0: ](//ex0/)
+
+- [ex00: ft_ft](/c01/ex00/ft_ft.c)
+- [ex01: ft_ultimate_ft](/c01/ex01/ft_ultimate_ft.c)
+- [ex02: ft_swap](/c01/ex02/ft_swap.c)
+- [ex03: ft_div_mod](/c01/ex03/ft_div_mod.c)
+- [ex04: ft_ultimate_div_mod](/c01/ex04/ft_ultimate_div_mod.c)
+- [ex05: ft_putstr](/c01/ex05/ft_putstr.c)
+- [ex06: ft_strlen](/c01/ex06/ft_strlen.c)
+- [ex07: ft_rev_int_tab](/c01/ex07/ft_rev_int_tab.c)
+- [ex08: ft_sort_int_tab](/c01/ex08/ft_sort_int_tab.c)
 
 ## c02
 - [ex0: ](//ex0/)
