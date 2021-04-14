@@ -187,5 +187,12 @@ Reference repository for all the 42 C Piscine projects.
 
 ## c13
 
-- [ex0: ](//ex0/)
+- [ex00: btree_create_node](/c13/ex00/btree_create_node.c)
+- [ex01: btree_apply_prefix](/c13/ex01/btree_apply_prefix.c)
+- [ex02: btree_apply_infix](/c13/ex02/btree_apply_infix.c)
+- [ex03: btree_apply_suffix](/c13/ex03/btree_apply_suffix.c)
+- [ex04: btree_insert_data](/c13/ex04/btree_insert_data.c)
+- [ex05: btree_search_item](/c13/ex05/btree_search_item.c)
+- [ex06: btree_level_count](/c13/ex06/btree_level_count.c)
+- [ex07: btree_apply_by_level](/c13/ex07/btree_apply_by_level.c)
 
